@@ -1,5 +1,4 @@
-gnocchi alla sorrentina
--gnocchi
+Gnocchi alla sorrentina
+
 -patate
--pomodori rossi
--olio
+-pomodori
